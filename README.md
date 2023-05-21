@@ -6,5 +6,4 @@ Página web de MakeSense AI: [https://www.makesense.ai/](https://www.makesense.a
 Las imágenes se etiquetarán en dos categorías:
 - Fresa_sana
 - Fresa_enferma
-- 
 Estas etiquetas se utilizarán para clasificar las imágenes según su estado de salud.
